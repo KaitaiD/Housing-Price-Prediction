@@ -7,5 +7,6 @@ If you want to run all the notebooks in this repository, you could run the code 
 
 '''
 pip install -r 
+
 requirements.txt
 '''
